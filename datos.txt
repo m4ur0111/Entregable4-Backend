@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Apple Watch SE",
+    "description": "El Apple Watch SE es un reloj inteligente de la reconocida marca Apple que ofrece un equilibrio perfecto entre funcionalidad y precio.",
+    "price": 1810,
+    "thumbnail": "https://images.fravega.com/f1000/9621db3cb192b5e486a680a1a4e4496e.jpg",
+    "code": 5275,
+    "stock": 30,
+    "id": 10
+  },
+  {
+    "title": "Galaxy Watch4 Bluetooth",
+    "description": "El Galaxy Watch4 Bluetooth es un reloj inteligente de Samsung que combina estilo y funcionalidad en un elegante dispositivo portátil.",
+    "price": 1410,
+    "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/2108/gallery/ar-galaxy-watch4-sm-r860nzdaaro-481110913?$650_519_PNG$",
+    "code": 6323,
+    "stock": 20,
+    "id": 9
+  },
+  {
+    "title": "Auriculares Razer Kraken Ultimate",
+    "description": "Los auriculares Razer Kraken Ultimate son una opción destacada para los amantes de los juegos y los entusiastas de la música.",
+    "price": 610,
+    "thumbnail": "https://www.megatone.net/images/Articulos/zoom2x/1/01/MKT2472MEM.jpg",
+    "code": 7425,
+    "stock": 14,
+    "id": 8
+  },
+  {
+    "title": "Mouse Gamer Razer Basilisk V3",
+    "description": "El mouse gamer Razer Basilisk V3 es un dispositivo de alto rendimiento diseñado para jugadores exigentes que buscan precisión y control durante sus sesiones de juego.",
+    "price": 640,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_794445-MLA48220999401_112021-O.webp",
+    "code": 1225,
+    "stock": 64,
+    "id": 7
+  },
+  {
+    "title": "Mouse Gamer Redragon M908",
+    "description": "El mouse gamer Redragon M908 es un dispositivo diseñado específicamente para satisfacer las necesidades de los entusiastas de los videojuegos.",
+    "price": 530,
+    "thumbnail": "https://smarts.com.ar/media/catalog/product/cache/e2fffb2b85fe85187f9dedbb6434d061/m/9/m908-impact_ok.jpg",
+    "code": 2225,
+    "stock": 34,
+    "id": 6
+  },
+  {
+    "title": "Teclado Gamer Redragon K599",
+    "description": "El teclado gamer Redragon K599 es un dispositivo diseñado especialmente para satisfacer las necesidades de los entusiastas de los videojuegos.",
+    "price": 1530,
+    "thumbnail": "https://www.innovartech.com.ar/storage/2022/03/K599-DEIMOS.jpg",
+    "code": 3285,
+    "stock": 24,
+    "id": 5
+  },
+  {
+    "title": "Nokia G50",
+    "description": "Nokia G50 es un teléfono inteligente de gama media con un enfoque en la conectividad y la durabilidad.",
+    "price": 1800,
+    "thumbnail": "https://images.ctfassets.net/wcfotm6rrl7u/76fSPXUoCY4M6TVXVK1ofr/582329d4c4bdb6e79b9a9fbdf1f5e371/nokia-G50-ocean_blue-front_back-int.png?h=1000&fm=png&fl=png8",
+    "code": 5285,
+    "stock": 56,
+    "id": 4
+  },
+  {
+    "title": "Xiaomi Mi 12 Lite",
+    "description": "Xiaomi Mi 12 Lite es un teléfono inteligente de gama media-alta lanzado por la reconocida marca Xiaomi.",
+    "price": 1560,
+    "thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/001/388/250/products/mi-12-lite1-c0c6bec92eaa5c47b416644075792536-640-0.jpg",
+    "code": 2725,
+    "stock": 74,
+    "id": 3
+  },
+  {
+    "title": "S23 Ultra",
+    "description": "El S23 Ultra es el último buque insignia de la reconocida serie de teléfonos Samsung Galaxy.",
+    "price": 1300,
+    "thumbnail": "https://static.hendel.com/media/catalog/product/cache/0c3e9ac8430b5a3e77d1544ae1698a10/4/9/49604_be-min.jpg",
+    "code": 5685,
+    "stock": 26,
+    "id": 2
+  },
+  {
+    "title": "Iphone 14",
+    "description": "El iPhone 14 es la última incorporación a la reconocida línea de teléfonos inteligentes de Apple.",
+    "price": 1500,
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/09/Apple-iphone-14-Pro-review-1.jpeg?w=1024",
+    "code": 5445,
+    "stock": 20,
+    "id": 1
+  }
+]
